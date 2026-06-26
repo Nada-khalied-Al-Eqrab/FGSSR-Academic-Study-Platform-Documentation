@@ -18,6 +18,14 @@ Welcome to the official artifact and engineering documentation repository for th
 
 ---
 
+## 📄 Full Project Documentation & Diagrams
+
+💡 **Looking for the complete system blueprints?** You can access the comprehensive engineering documentation, software specifications, and all interactive architectural diagrams (UML, C4 Model, DFD, and EERD) by clicking the link below:
+
+<img src="websiteplanet-qr.png" width="400" alt="QR CODE"/>
+
+👉 [**Click Here to View the FGSSR Documentation Portal**](https://nada-khalied-al-eqrab.github.io/FGSSR-Academic-Study-Platform-Documentation/)
+
 ## 📄 Project Books
 
 Complete textual reports detailing requirements elicitation, literature review, and system specifications:
