@@ -94,4 +94,40 @@ Object-oriented chronological interactions across the MVC layer:
 * [Secure Session Authentication & Profile Pulling](SQU/FGSSR%20SQU%20%20mang%20profile%20and%20auth%20login.drawio.html)
 * [Dashboard/Profile Mutex State Updates](SQU/FGSSR%20SQU%20User%20Dashboard%20and%20Profile%20Management.drawio.html)
 * [Assigning Course Elements to Diplomas](SQU/FSSR%20Sequence%20Diagram%20Add%20course%20to%20diploma.png)
-* [New Course Element Initialization](SQU/FSSR%20Sequence%20Diagram%20
+* [New Course Element Initialization](SQU/FSSR%20Sequence%20Diagram%20Add%20course.png)
+* [New Academic Diploma Entry](SQU/FSSR%20Sequence%20Diagram%20Add%20Diploma.png)
+* [Single or Bulk Course Removal Actions](SQU/FSSR%20Sequence%20Diagram%20delete%20or%20delete%20all%20%20course.png)
+* [Single or Bulk Course-Diploma Detachment](SQU/FSSR%20Sequence%20Diagram%20delete%20or%20delete%20all%20%20course_diploma.png)
+* [Single or Bulk Diploma Deletion Sequences](SQU/FSSR%20Sequence%20Diagram%20delete%20or%20delete%20all%20Diploma.png)
+* [Updating Active Course-Diploma Map Attributes](SQU/FSSR%20Sequence%20Diagram%20update%20course_diploma.png)
+* [Modifying Structural Diploma Record Attributes](SQU/FSSR%20Sequence%20Diagram%20update%20diploma.png)
+* [Modifying Structural Course Record Attributes](SQU/FSSR%20Sequence%20Diagram%20updatecourse.png)
+* [Multi-format Resource Upload Action](SQU/add%20file%20Diagram.html)
+* [File System Document Stream & Download Pipeline](SQU/file%20display%20Diagram.drawio.html)
+* [File Modifications, Individual, and Mass Wipe Actions](SQU/update%20file%20Diagram.html)
+* [New Academic Content Upload Notifications Cycle](SQU/add%20content%20notifications%20Diagram.html)
+* [Timetable (Exam/Lecture) Structuring & Modification Updates](SQU/add%20exam%20table%20or%20lecture%20table%20or%20modify%20notifications%20Diagram.html)
+* [Faculty Instructor Module Assignment & Alert Triggers](SQU/assigncourse%20to%20doctor%20notifications%20Diagram.html)
+* [Campus Learning Venue Setup Block](SQU/add%20place%20Diagram.html)
+* [Venue Alteration, Individual, and Mass Wipe Sequences](SQU/update%20place%20Diagram.html)
+* [Dynamic Asynchronous Data Querying Flow](SQU/search%20Diagram.drawio.html)
+* [Real-Time Interactive Chat Packet Exchange](SQU/sequence%20%20message%20Diagram.drawio.html)
+* [Exam Timetable Record Commits](SQU/sequence%20exam%20Diagram.drawio.html)
+* [Lecture Schedule Transaction Lifecycles](SQU/sequence%20lecture%20Diagram.drawio.html)
+* [Materials Registry Lifecycle Traces](SQU/sequence%20material%20Diagram.drawio.html)
+
+### State Diagrams
+Dynamic, transactional system status mutations:
+* [User Session & Identity Authentication Lifecycle](STATE/User%20Authentication.png)
+* [Course Material Resource State Mutations](STATE/Managing%20course%20materials%20.png)
+* [Course-Level Live Chat Subsystem States](STATE/Chat%20Course.png)
+* [Notification Dispatch Context Lifespans](STATE/Notification.png)
+
+---
+
+## 🧩 High-Level Components
+
+* [UML Component Architecture](COMPONANT/COMPONANT.drawio.html) - Structural component models using standard engineering connectors mapping decoupled interface structures within the system workspace.
+
+---
+🚀 **All copyrights are strictly reserved for [Nada Khaled (Al-Eaqrab)](https://github.com/Nada-khalied-Al-Eqrab) and Cairo University.**
